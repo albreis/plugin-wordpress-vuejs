@@ -6,7 +6,7 @@ Descompacte o plugin na pasta de plugin: /wp-content/plugins/
 
 Altere o nome do arquivo principal res-manager.php para o de sua preferência. Renomeie também o bloco de comentário Plugin Name.
 
-# Integrando o VueJS
+## Integrando o VueJS
 
 Inicie um app usando vue-cli com o seguinte comando: vue create front
 
